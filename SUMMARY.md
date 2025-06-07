@@ -4,6 +4,7 @@
 
 ## Getting Started
 
+* [SOC104 - Malware Detected](getting-started/soc104-malware-detected.md)
 * [Quickstart](getting-started/quickstart.md)
 * [Publish your docs](getting-started/publish-your-docs.md)
 
